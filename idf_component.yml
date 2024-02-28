@@ -1,5 +1,5 @@
 version: "1.0.1"
 description: test custom component
-url: https://github.com/espressif/esp-bsp/tree/master/components/io_expander/esp_io_expander
+url: https://github.com/firepooh/component_test.git
 dependencies:
   idf: ">=4.4.2"
